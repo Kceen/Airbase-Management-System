@@ -1,0 +1,15 @@
+1,Rusija,Sukhoi,SU-57,176,3500,10300,DA,DA
+2,Rusija,Sukhoi,SU-57,176,2500,10300,DA,NE
+3,Rusija,Sukhoi,SU-57,176,100,10300,NE,DA
+4,SAD,Lockheed Martin,F-22,156,7500,12000,DA,DA
+5,SAD,Lockheed Martin,F-22,156,0,12000,NE,DA
+6,Rusija,Mikoyan,MiG-29,164,1000,3500,DA,DA
+7,Rusija,Mikoyan,MiG-29,164,1500,3500,DA,NE
+8,Rusija,Mikoyan,MiG-29,164,1000,3500,DA,NE
+9,Rusija,Mikoyan,MiG-29,164,100,3500,NE,DA
+10,Rusija,Mikoyan,MiG-29,164,3000,3500,DA,DA
+11,Evropa,EuroFighter,Typhoon,180,2500,5000,DA,DA
+12,Evropa,EuroFighter,Typhoon,180,1500,5000,NE,DA
+13,Evropa,EuroFighter,Typhoon,180,200,5000,DA,DA
+14,Francuska,Dassault,Rafale,150,4000,4700,DA,NE
+15,Francuska,Dassault,Rafale,150,0,4700,NE,DA

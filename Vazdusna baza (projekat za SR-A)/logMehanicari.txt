@@ -1,0 +1,3 @@
+Petar Petrovic je popravio avion = Lockheed Martin F-22 sa ID = 4
+Petar Petrovic je popravio avion = Sukhoi SU-57 sa ID = 2
+Petar Petrovic je dodao 5000 kg goriva u Sukhoi SU-57 sa ID = 1
